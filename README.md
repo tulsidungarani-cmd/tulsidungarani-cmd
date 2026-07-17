@@ -8,6 +8,22 @@
 
 </p>
 
+# Hi there, I'm [Your Name]! 👋
+
+I am an **Information Technology student** passionate about software development, problem-solving, and building efficient systems. I'm currently focusing on mastering low-level programming and system architecture using C.
+
+---
+
+### 💻 About Me
+- 🎓 Currently pursuing my degree in **Information Technology** at **[Your University/College Name]**.
+- 🚀 Exploring the depths of **C programming**, data structures, and algorithms.
+- ✍️ Designing efficient backend systems and understanding how hardware and software communicate.
+- 🎯 Goal: To build a strong foundation in computer science principles and transition into a Software Engineering role.
+
+### 🛠️ Tech Stack
+* **Languages:** C, [Add other languages like C++, Python, Java, etc.]
+* **Tools & Platforms:** Git, GitHub, VS code
+
 
 
 <p align="left">
