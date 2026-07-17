@@ -20,9 +20,16 @@ I am an **Information Technology student** passionate about software development
 - ✍️ Designing efficient backend systems and understanding how hardware and software communicate.
 - 🎯 Goal: To build a strong foundation in computer science principles and transition into a Software Engineering role.
 
-### 🛠️ Tech Stack
-* **Languages:** C, [Add other languages like C++, Python, Java, etc.]
-* **Tools & Platforms:** Git, GitHub, VS code
+
+Here's an expanded **GitHub README** skills section that includes Java, C, Git, GitHub, and other popular programming languages.
+
+### 💻 Programming Languages
+
+
+## 🛠️ Tech Stack
+* **Languages:*** C, [Add other languages like C++, Python, Java, etc.]
+  
+**Tools & Platforms:** Git, GitHub, VS code
 
 
 
@@ -30,11 +37,6 @@ I am an **Information Technology student** passionate about software development
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
-Here's an expanded **GitHub README** skills section that includes Java, C, Git, GitHub, and other popular programming languages.
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
